@@ -16,7 +16,7 @@ border-radius: 4px;
 }
 .ana{
     .card{
-        border-radius: 40px;
+        border-radius: 18px;
     }
     .card-title{
         font-size: 2rem;
@@ -28,9 +28,8 @@ border-radius: 4px;
 }
 
 .d-block{
-    height:520px;
+    height:750px;
     border-radius: 4px;
-    box-shadow: 2px 2px 2px;
 }
 
 .text-team{
